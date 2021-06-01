@@ -6,26 +6,26 @@ Tool
 
 ----------------------------
 
-- About
+- About Page
 
 ![](/about.png)
 
-- Booking
+- Booking Page
 
 ![](/booking.png)
 
-- Delivery
+- Delivery Page
 
 ![](/delivery.png)
 
-- Main Menu
+- Main Menu Page
 
 ![](/mainMenu.png)
 
-- Menu
+- Menu Page
 
 ![](/menu.png)
 
-- Home
+- Home Page
 
 ![](/paint.png)
